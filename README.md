@@ -6,9 +6,7 @@ Este repositório contém vários mini-projetos, cada um em sua própria pasta. 
 Aqui está uma visão geral dos projetos incluídos:
 
 
-Pasta 1: Aplicativo Mobile em React Native para gerenciamento de combustível.
-Pasta 2: [nome do projeto 2]
-Pasta 3: [nome do projeto 3]
+- Pasta 1: Aplicativo Mobile em React Native para gerenciamento de combustível.
 
 Sinta-se à vontade para usar qualquer um desses projetos em seus próprios projetos, aprender com eles ou contribuir com melhorias. Se você encontrar algum problema ou tiver alguma sugestão, abra uma nova issue ou pull request na pasta correspondente.
 
