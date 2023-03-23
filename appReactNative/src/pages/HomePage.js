@@ -1,14 +1,29 @@
-import React from 'react';
-import {View, Text} from 'react-native';
+import * as React from 'react';
+import { BottomNavigation, Text } from 'react-native-paper';
 
-const HomePage = () => {
+import Calculadora from './Calculadora';
+import Custos from './Custos';
+
+const Home = () => {
+  const [index, setIndex] = React.useState(0);
+
+  const [routes] = React.useState([
+    { key: 'calculadora', title: 'Calculadora', icon: 'calculator'},
+    { key: 'custos', title: 'Custos', icon: 'cash'}
+  ]);
+
+  const renderScene = BottomNavigation.SceneMap({
+    calculadora: Calculadora,
+    custos: Custos,
+  });
+
   return (
-
-    <View>
-      <Text> Primeira Página em React Native! </Text>
-    </View>
-
+    <BottomNavigation
+      navigationState={{ index, routes }}
+      onIndexChange={setIndex}
+      renderScene={renderScene}
+    />
   );
-}
+};
 
-export default HomePage;
+export default Home;
