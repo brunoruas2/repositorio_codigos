@@ -1,13 +1,13 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 
-import Home from './src/pages/HomePage'
+import Main from './src/navigations/Main'
 
 const App = () => {
 
   return (
     <NavigationContainer>
-      <Home />
+      <Main />
     </NavigationContainer>
   )
 }

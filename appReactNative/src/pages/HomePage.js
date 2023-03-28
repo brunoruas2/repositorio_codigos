@@ -8,8 +8,8 @@ const Home = () => {
   const [index, setIndex] = React.useState(0);
 
   const [routes] = React.useState([
-    { key: 'calculadora', title: 'Calculadora', icon: 'calculator'},
-    { key: 'custos', title: 'Custos', icon: 'cash'}
+    {key: 'calculadora', title: 'Calculadora', icon: 'calculator'},
+    {key: 'custos', title: 'Custos', icon: 'cash'}
   ]);
 
   const renderScene = BottomNavigation.SceneMap({
