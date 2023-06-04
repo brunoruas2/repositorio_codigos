@@ -1,6 +1,6 @@
 import React from 'react';
-import { StyleSheet, View } from 'react-native'
-import { Appbar, TextInput, Button, Text } from 'react-native-paper';
+import { StyleSheet } from 'react-native'
+import { Button, Text } from 'react-native-paper';
 
 import Container from './../components/Container';
 import Header from './../components/Header';
