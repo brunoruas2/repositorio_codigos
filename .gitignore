@@ -2,3 +2,6 @@
 /projetoBackend/backendProject/.vs/backendProject
 /projetoBackend/backendProject/backendProject/bin/Debug/net8.0
 /projetoBackend/backendProject/backendProject/obj
+/projetoBackend/backendProject/backendProject/bin/*
+
+*.bd
