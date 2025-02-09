@@ -1,0 +1,15 @@
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\bin\Debug\net9.0\TesteLeetCodeBrunoRuas.exe
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\bin\Debug\net9.0\TesteLeetCodeBrunoRuas.deps.json
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\bin\Debug\net9.0\TesteLeetCodeBrunoRuas.runtimeconfig.json
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\bin\Debug\net9.0\TesteLeetCodeBrunoRuas.dll
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\bin\Debug\net9.0\TesteLeetCodeBrunoRuas.pdb
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.AssemblyInfoInputs.cache
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.AssemblyInfo.cs
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.sourcelink.json
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.dll
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\refint\TesteLeetCodeBrunoRuas.dll
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.pdb
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\TesteLeetCodeBrunoRuas.genruntimeconfig.cache
+C:\Users\bruno\Documentos\GitHub\repositorio_codigos\projetoBackend\entrevistasTecnicas\01.detectCapitalRegex\TesteLeetCodeBrunoRuas\TesteLeetCodeBrunoRuas\obj\Debug\net9.0\ref\TesteLeetCodeBrunoRuas.dll
