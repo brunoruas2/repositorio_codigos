@@ -16,6 +16,7 @@ public class Solution : ISolution
         _rules = rules;
     }
 
+    // examinador da palavra
     public bool DetectCapitalUse(string word)
     {
         if (word.Length < 1 || word.Length > 100)
@@ -35,6 +36,8 @@ class Program
 {
     static void Main()
     {
+        // aqui eu adotei um dict para organizar as regras em regex
+        // coloquei um exemplo como key do dict e a regra depois
         var rules = new Dictionary<string, string>
         {
             { "All caps", "[A-Z]+" },
